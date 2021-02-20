@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
       marginTop: 20,
       marginLeft: 'auto',
       marginRight: 'auto',
-      backgroundColor: '#f2f2f2',
+      backgroundColor: 'teal',
       width: 340,
       height: 450,
       borderRadius: 15,
